@@ -31,3 +31,4 @@ if ($operation = "multiply")
   echo $num1." / ".$num2." = ";
   echo $answer_divide;
 }
+?>
